@@ -15,8 +15,7 @@ class Player1 extends Component {
      state = {
          tracks : {
              benson: 1,
-             scoffed :1 ,
-             breker :2,
+             breker :1,
              andreas:1
 
          }
