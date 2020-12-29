@@ -2,58 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14797ba-b74f-4fe2-8b23-65a8d54bd6d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/01. golden slumbers (you never give me your money).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/02. because (come together).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/03. oh! darling!.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/04. here comes the sun (i want you).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/05. something (octopus garden, the end).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1969 - The other side of abbey road [320]/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/01. Take Five.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/02. Summer Wishes, Winter Dreams.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/03. My Latin Brother.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/04. No Sooner Said Than Done.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/05. Full Compass.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/06. The Changing World.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/07. Take The ''A'' Train (new mix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/08. Serbian Blue (new mix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/09. From Now On (unreleased).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1974 - Bad Benson [320]/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/01. Breezin'.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/01. Breezin'.mp3.sfk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/02. This Masquerade.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/03. Six to Four.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/04. Affirmation.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/05. So This Is Love.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/06. Lady.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/06. Lady.mp3.sfk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/1976 - Breezin' [320]/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Sergey&amp;Pavel/beautiful love.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Sergey&amp;Pavel/corcovado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Sergey&amp;Pavel/how insensitive.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Sergey&amp;Pavel/someday my prince will come.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Breezin.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/blues.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Barka.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Envie de tois.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/I'll See You In My dreams.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Ich Liebe Dith.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Le Petite Fleure.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Lush Life(Hot Club de Kiev)_Merry_Christmas 2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Mr.Sandman.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Nie opuszczaj mnie.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Samba Przed Rozstaniem.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Si tu savais more quality.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/TakingAChanceOfLove(LushLife).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/Tchavolo Swing.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/TracksSrc/Lush-Life/cou-cou.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Containers/Player/Player1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Player1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hoc/Aoux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hoc/Aoux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mKFFxEt2M7ejUbQbprmP3UwXg5" />
@@ -103,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609234276366</updated>
-      <workItem from="1609234277566" duration="12010000" />
+      <workItem from="1609234277566" duration="15999000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1609235820859</created>
@@ -112,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609235820859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first 1">
+      <created>1609246554340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609246554340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="first 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="first 1" />
   </component>
 </project>

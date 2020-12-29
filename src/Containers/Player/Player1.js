@@ -2,27 +2,24 @@ import React ,{ Component } from 'react';
 import Aux from '../../Hoc/Aoux'
 import Iframe from 'react-iframe'
 import Button from '@material-ui/core/Button'
-
+import Track from "../../Components/Playlists/Tracks/Track";
 
 
 
 class Player1 extends Component {
-    state = {
-        tracks : [
-            { src: './Breezin.mp3'
 
-            }
-        ]
-    }
 
     render ( ) {
         return (
             <Aux>
-                <div> <Button variant='contained' color= 'primary' >Play</Button>
+                <div>
                     <Iframe url="http://www.youtube.com/embed/flVtAcripow" className= 'iframe' loading='true'  />
 
                 </div>
-                 <div>PlaylistBuilder</div>
+                 <div>
+                     <Button variant='contained' color= 'primary' >Play</Button>
+
+                 </div>
             </Aux>
 
 
