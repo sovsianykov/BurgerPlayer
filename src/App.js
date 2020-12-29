@@ -5,7 +5,7 @@ class App  extends Component{
   render() {
     return (
         <Layout>
-          <Player1  />
+          <Player1/>
         </Layout>
     )
   }
