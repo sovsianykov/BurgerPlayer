@@ -1,0 +1,11 @@
+.Buildcontrol {
+    width: 100%;
+    background: #353232;
+    color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 2px 1px orange  ;
+    margin: auto;
+    padding: 10px 0;
+}
