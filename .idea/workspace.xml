@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14797ba-b74f-4fe2-8b23-65a8d54bd6d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Containers/Card/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buidcontrols.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Playlist.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Playlist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Player/Player1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Player1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <disabled>
@@ -26,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,6 +65,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -75,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609234276366</updated>
       <workItem from="1609234277566" duration="27696000" />
-      <workItem from="1609271634459" duration="4935000" />
+      <workItem from="1609271634459" duration="18472000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1609235820859</created>
@@ -105,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609262853871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cssRedy">
+      <created>1609277873037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609277873037</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

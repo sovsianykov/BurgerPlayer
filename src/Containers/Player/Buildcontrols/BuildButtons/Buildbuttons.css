@@ -1,0 +1,26 @@
+.Buildbuttons {
+    width: 400px;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    margin: 10px auto;
+
+}
+.Button {
+    display: block;
+    margin: 10px 0px ;
+    position: relative;
+    left: 40px;
+
+
+}
+.Label {
+    width: 30px;
+     position: relative;
+    font-size: 1.2rem;
+    z-index: 1;
+
+    right: 80px;
+
+
+}

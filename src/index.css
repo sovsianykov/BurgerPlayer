@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #090808;
 }
 
 code {
@@ -21,6 +22,8 @@ h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-varian
   margin: auto;
   padding: 10px;
   height: 800px;
+  font-family: "Droid Sans", sans-serif;
+  color: blanchedalmond;
   /*width: 240px;*/
   /*height: 1000px;*/
   overflow: scroll;
@@ -29,7 +32,7 @@ h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-varian
   align-items: center;
   justify-content: space-around;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 @media (min-width: 1000px ) and (min-height: 700px ) {
@@ -38,15 +41,15 @@ h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-varian
     height: 700px;
   }
 }
-@media (min-width: 500px ) and (max-height: 400px ) {
+@media (min-width: 500px ) and (min-height: 400px ) {
   .Playlist {
-    width: 270px;
+    width: 400px;
     height: 400px;
   }
 }
-@media (min-width: 500px ) and (min-height: 400px ) {
+@media (max-width: 400px ) and (min-height: 401px ) {
   .Playlist {
-    width: 270px;
+    width: 400px;
     height: 400px;
   }
 }

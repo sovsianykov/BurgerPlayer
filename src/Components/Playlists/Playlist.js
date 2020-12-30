@@ -2,15 +2,21 @@ import React from "react";
 import classes from './Playlist.css'
 import Track from "./Tracks/Track";
 const Playlist  = (props) => {
-const transformtracks = Object.keys(props.tracks)
+let transformtracks = Object.keys(props.tracks)
      .map(tkKey => {
          return [ ...Array(props.tracks[tkKey])].map(( _,i)=>{
        return     <Track key={tkKey + i} type = {tkKey}     />
          })
      })
+    .reduce(( arr,el ) => {
+    return arr.concat(el)
+    } ,[])
+    if (transformtracks.length === 0) {
+        transformtracks = <h2>Plelase , set the tacks!</h2>
+    }
     return (
 <div className='Playlist'>
-  <Track type='scoffed' />
+
     {transformtracks}
 </div>
 
