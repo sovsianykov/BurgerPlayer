@@ -3,8 +3,6 @@ import Aoux from '../../Hoc/Aoux'
 import Buildcontrols from "./Buildcontrols/Buildcontrols";
 import Iframe from 'react-iframe'
 import Playlist from "../../Components/Playlists/Playlist";
-import MediaControlCard from "../Card/Card";
-import Button from '@material-ui/core/Button'
 import Track from "../../Components/Playlists/Tracks/Track";
 
 
@@ -20,7 +18,7 @@ class Player1 extends Component {
              benson: 1,
              breker :1 ,
              andreas: 1,
-             leenorgan : 1
+             leemorgan : 1
          }
      }
      addTrackHandler = (type)=> {

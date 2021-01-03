@@ -11,7 +11,7 @@ class Track extends Component {
                 song = <Iframe url="http://www.youtube.com/embed/flVtAcripow" />;
                 break;
             case ('leemorgan') :
-                song = <Iframe url="http://www.youtube.com/embed/DvuTf-tcB1E"/>;
+                song = <Iframe url="http://www.youtube.com/embed/KVvRZWhFF4w"/>;
                 break;
             case ('breker') :
                 song = <Iframe url="http://www.youtube.com/embed/GSLdcEaUOJ0"/>;

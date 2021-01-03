@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14797ba-b74f-4fe2-8b23-65a8d54bd6d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Containers/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buidcontrols.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Containers/Player/Player1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Player1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -87,6 +79,9 @@
       <updated>1609234276366</updated>
       <workItem from="1609234277566" duration="27696000" />
       <workItem from="1609271634459" duration="18472000" />
+      <workItem from="1609352582304" duration="390000" />
+      <workItem from="1609354923621" duration="1188000" />
+      <workItem from="1609658837580" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1609235820859</created>
@@ -123,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609277873037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="missed files">
+      <created>1609352807559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609352807559</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +141,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
