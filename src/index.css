@@ -65,7 +65,7 @@ h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-varian
 }
 @media (max-width: 400px ) and (min-height: 401px ) {
   .Playlist {
-    width: 400px;
+    width: 100%;
     height: 400px;
   }
 }
