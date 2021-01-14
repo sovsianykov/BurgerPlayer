@@ -6,7 +6,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/BuildButtons/Buildbuttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Containers/Player/Player1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Player1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -82,6 +84,7 @@
       <workItem from="1609352582304" duration="390000" />
       <workItem from="1609354923621" duration="1188000" />
       <workItem from="1609658837580" duration="1075000" />
+      <workItem from="1610618548486" duration="6514000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1609235820859</created>

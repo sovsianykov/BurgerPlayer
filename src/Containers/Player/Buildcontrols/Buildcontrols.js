@@ -1,5 +1,5 @@
 import React from "react";
-import classes from './Buidcontrols.css'
+import   './Buidcontrols.css'
 import Buildbuttons from "./BuildButtons/Buildbuttons";
 const controls = [
     { label: 'Scofield', type: 'scoffed'},
@@ -14,7 +14,11 @@ const controls = [
 
      <div className='Buildcontrol'>
     { controls.map(ctrl => (
-            <Buildbuttons key = {ctrl.label} label ={ctrl.label} />
+            <Buildbuttons key = {ctrl.label} label ={ctrl.label}
+                           added = { ()=>  props.tracksAdded(ctrl.type)}
+                           removed ={()=> props.traksRemoved(ctrl.type) }
+                          disabled = {props.disabled[ctrl.type]}
+            />
         ))}
 
      </div>

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
   background: #090808;
 }
 
@@ -15,18 +16,32 @@ code {
 
 h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700;
   line-height: 26.4px; } h3 { font-family: "Droid Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Droid Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Droid Sans"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Droid Sans"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+::-webkit-scrollbar {
+  width: 20px;
+}
 
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgb(239, 171, 51);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(236, 227, 227, 0.5);
+}
 
 .Playlist {
   background: black;
   margin: auto;
-  padding: 10px;
-  height: 800px;
+  padding: 5px;
+  height: 1000px;
   font-family: "Droid Sans", sans-serif;
   color: blanchedalmond;
   /*width: 240px;*/
   /*height: 1000px;*/
-  overflow: scroll;
+  overflow-y: scroll;
+
+  scrollbar-darkshadow-color:   #090808;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -59,7 +74,7 @@ h1 { font-family: "Droid Sans"; font-size: 24px; font-style: normal; font-varian
   position: relative;
   z-index: 1;
   top:170px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 
 }
 

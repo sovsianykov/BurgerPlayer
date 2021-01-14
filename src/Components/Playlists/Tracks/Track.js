@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import PropTypes from 'prop-types';
-import {render} from "@testing-library/react";
 import Iframe from "react-iframe";
 class Track extends Component {
     render() {
@@ -8,10 +7,10 @@ class Track extends Component {
 
         switch (this.props.type) {
             case ('andreas'):
-                song = <Iframe url="http://www.youtube.com/embed/flVtAcripow" />;
+                song = <Iframe url="http://www.youtube.com/embed/JqVz3l2qoi4"/>;
                 break;
             case ('leemorgan') :
-                song = <Iframe url="http://www.youtube.com/embed/KVvRZWhFF4w"/>;
+                song = <Iframe url="http://www.youtube.com/embed/DvuTf-tcB1E"/>;
                 break;
             case ('breker') :
                 song = <Iframe url="http://www.youtube.com/embed/GSLdcEaUOJ0"/>;
@@ -22,6 +21,8 @@ class Track extends Component {
 
                 case ('scoffed') :
                 song = <Iframe url="http://www.youtube.com/embed/p0zXaHjviWg"/>;
+
+
 
                 break;
 
@@ -37,8 +38,7 @@ class Track extends Component {
     }
 }
 Track.propTypes = {
-   // type: PropTypes.string.isRequired,
-   // song: PropTypes.string.isRequired
+    type: PropTypes.string.isRequired,
 }
 
 export default Track;
