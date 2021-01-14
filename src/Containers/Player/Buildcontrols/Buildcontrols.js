@@ -2,11 +2,11 @@ import React from "react";
 import   './Buidcontrols.css'
 import Buildbuttons from "./BuildButtons/Buildbuttons";
 const controls = [
-    { label: 'Scofield', type: 'scoffed'},
-    { label: 'Benson', type: 'benson'},
-    { label: 'Andreas', type: 'andreas'},
-    { label: 'Breker', type: 'breker'},
-    { label: 'LeeMorgan', type: 'leemorgan'},
+    { label: 'Sceleton', type: 'scoffed'},
+    { label: 'Groove', type: 'benson'},
+    { label: 'Move', type: 'andreas'},
+    { label: 'Stage ', type: 'breker'},
+    { label: 'Lee ', type: 'leemorgan'},
 ]
  const Buildcontrols = (props) => (
 

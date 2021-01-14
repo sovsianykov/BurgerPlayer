@@ -4,8 +4,8 @@
     <list default="true" id="a14797ba-b74f-4fe2-8b23-65a8d54bd6d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Playlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlists/Tracks/Track.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Player/Buildcontrols/Buildcontrols.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <disabled>
@@ -82,7 +82,7 @@
       <workItem from="1609352582304" duration="390000" />
       <workItem from="1609354923621" duration="1188000" />
       <workItem from="1609658837580" duration="1075000" />
-      <workItem from="1610618548486" duration="7489000" />
+      <workItem from="1610618548486" duration="10942000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1609235820859</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610625204258</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="last commit">
+      <created>1610626065486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610626065486</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
     <MESSAGE value="first 1" />
     <MESSAGE value="first 4" />
     <MESSAGE value="first 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="first 5" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
   </component>
 </project>

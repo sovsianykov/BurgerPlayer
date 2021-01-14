@@ -7,20 +7,20 @@ class Track extends Component {
 
         switch (this.props.type) {
             case ('andreas'):
-                song = <Iframe url="http://www.youtube.com/embed/JqVz3l2qoi4"/>;
+                song = <Iframe url="https://videos.pond5.com/afro-american-jazz-band-performing-footage-113150279_main_xl.mp4"/>;
                 break;
             case ('leemorgan') :
-                song = <Iframe url="http://www.youtube.com/embed/DvuTf-tcB1E"/>;
+                song = <Iframe url="https://media.gettyimages.com/videos/-video-id527-176"/>;
                 break;
             case ('breker') :
-                song = <Iframe url="http://www.youtube.com/embed/GSLdcEaUOJ0"/>;
+                song = <Iframe url="https://media.gettyimages.com/videos/jazz-player-drumming-and-smiling-rockford-illinois-usa-video-id101565419"/>;
                 break;
                 case ('benson') :
-                song = <Iframe url="http://www.youtube.com/embed/JIkHn3FKBYY"/>;
+                song = <Iframe url="https://media.gettyimages.com/videos/jazz-musicians-in-times-square-club-video-id173471885"/>;
                     break;
 
                 case ('scoffed') :
-                song = <Iframe url="http://www.youtube.com/embed/p0zXaHjviWg"/>;
+                song = <Iframe url="https://videos.pond5.com/1942-skeleton-marionette-made-dance-footage-136196769_main_xl.mp4"/>;
 
 
 
