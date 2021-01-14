@@ -11,7 +11,7 @@ let transformtracks = Object.keys(props.tracks)
     return arr.concat(el)
     } ,[])
     if (transformtracks.length === 0) {
-        transformtracks = <h2>Plelase , set the tacks!</h2>
+        transformtracks = <h2>Please , set the tracks!</h2>
     }
     return (
 <div className='Playlist'>
